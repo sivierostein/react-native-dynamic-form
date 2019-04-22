@@ -23,7 +23,9 @@
     "react-native-material-ui": "^1.22.3",
     "react-native-multiple-select": "git+https://github.com/numinolabspvt/react-native-multiple-select.git",
     "react-native-star-rating": "^1.0.9",
-    "react-native-tag-autocomplete":"1.0.21"
+    "react-native-tag-autocomplete":"1.0.21",
+    "react-native-keyboard-aware-scroll-view":"0.8.0"
+
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
