@@ -420,6 +420,7 @@ Represents a radio button component.
   type: 'radio-group',
   label: 'Favorite Programming Language',
   other: true, // displays an other input for custom data entry, optional
+  otherlabel: 'Another', // label for other input, optional
   values: [
     {
       label: 'JavaScript',
@@ -446,6 +447,7 @@ Represents a checkbox component.
   type: 'checkbox-group',
   label: 'Top 3 tech companies in the world',
   other: true, // optional
+  otherlabel: 'Another', // label for other input, optional
   values: [
     {
       label: 'Google',
@@ -631,4 +633,3 @@ Check [issues](https://github.com/toystars/react-native-dynamic-form/issues) for
 ## License
 
 The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
-
